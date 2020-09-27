@@ -1,2 +1,3 @@
 # Downloader
-To download audio files from youtube
+To download audio and video files from youtube.
+One also google or youtube search.
